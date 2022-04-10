@@ -5,6 +5,10 @@
     font-family: arial;
 }
 
+body {
+    background: purple;
+}
+
 a {
     text-decoration: none;
 }
